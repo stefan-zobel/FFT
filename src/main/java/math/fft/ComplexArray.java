@@ -18,7 +18,7 @@ package math.fft;
 /**
  * For computations with arrays of complex numbers.
  * <p>
- * Note that indexes are 1-based!
+ * Note that indexes in {@link #set(int, double, double)} are 1-based!
  */
 public final class ComplexArray {
 
