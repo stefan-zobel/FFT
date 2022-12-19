@@ -1,5 +1,4 @@
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/stefan-zobel/FFT.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/stefan-zobel/FFT/alerts/)
-[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/stefan-zobel/FFT.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/stefan-zobel/FFT/context:java)
+[![CodeQL](https://github.com/stefan-zobel/FFT/actions/workflows/codeql.yml/badge.svg)](https://github.com/stefan-zobel/FFT/actions/workflows/codeql.yml)
 
 # FFT
 
